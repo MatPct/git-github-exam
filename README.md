@@ -105,11 +105,9 @@ Réponse :
 9. Quel est le chemin du fichier de configuration locale d'un dépôt git ?
  - .git/config
 
-7.   À la première utilisation, quelles sont les informations nécessaires pour créer un commit ?
+10.   À la première utilisation, quelles sont les informations nécessaires pour créer un commit ?
  - le nom de l'utilisateur git
  - l'adresse mail de l'utilisateur git
- - la date de naissance de l'utilisateur git
- - la langue de l'utilisateur git
   
 8.  Quelle est la commande qui permet de mettre à jour la branche sur laquelle on se trouve par rapport à un dépôt distant ? 
  - fetch
