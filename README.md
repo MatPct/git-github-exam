@@ -99,8 +99,7 @@ Réponse :
 7. Quelle est la commande git qui permet d'ajouter un nouveau fichier dans un futur commit ?
  - add
 
-5. Est-il possible d'ajouter un répertoire vide dans un dépôt git ?
- - Oui
+8. Est-il possible d'ajouter un répertoire vide dans un dépôt git ?
  - Non
 
 6. Quel est le chemin du fichier de configuration locale d'un dépôt git ?
