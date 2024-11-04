@@ -115,11 +115,8 @@ Réponse :
 12.  Quelle est la commande qui permet de se mettre sur n'importe quel commit d'un historique git ? 
  - checkout
 
-10. Dans quelles conditions est-ce qu'un conflit apparaît avec git ? 
-- Lorsque deux développeurs sont sur des systèmes d'exploitation différents
+13. Dans quelles conditions est-ce qu'un conflit apparaît avec git ? 
 - Lorsqu'il y a un merge entre deux branches qui modifient la même partie d'un fichier
-- Lorsqu'on met à jour l'adresse du dépôt distant pour changer de protocole de communication
-- Lorsqu'il y a des modifications locales qui ne sont pas dans un commit et qu'on essaie de changer de branche
 
 1.   Lorsqu'il y a un conflit, qu'indique la commande `git status` sur les fichiers qui demandent une résolution ? 
  - twice modified
