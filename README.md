@@ -102,10 +102,7 @@ Réponse :
 8. Est-il possible d'ajouter un répertoire vide dans un dépôt git ?
  - Non
 
-6. Quel est le chemin du fichier de configuration locale d'un dépôt git ?
- - .git/settings
- - $HOME/.gitconfig
- - /etc/.gitconfig
+9. Quel est le chemin du fichier de configuration locale d'un dépôt git ?
  - .git/config
 
 7.   À la première utilisation, quelles sont les informations nécessaires pour créer un commit ?
