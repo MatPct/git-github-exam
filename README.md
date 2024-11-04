@@ -112,11 +112,8 @@ Réponse :
 11.  Quelle est la commande qui permet de mettre à jour la branche sur laquelle on se trouve par rapport à un dépôt distant ? 
  - pull
 
-9.  Quelle est la commande qui permet de se mettre sur n'importe quel commit d'un historique git ? 
+12.  Quelle est la commande qui permet de se mettre sur n'importe quel commit d'un historique git ? 
  - checkout
- - switch
- - mv
- - rm
 
 10. Dans quelles conditions est-ce qu'un conflit apparaît avec git ? 
 - Lorsque deux développeurs sont sur des systèmes d'exploitation différents
