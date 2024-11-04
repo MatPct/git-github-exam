@@ -139,11 +139,8 @@ Réponse :
 20.   Qu'est-ce que fait la commande `git merge` ?
  -  fusionne l'historique d'une branche avec une autre en créant un nouveau commit de fusion;
 
-4.   Quelle est une conséquence potentielle de l'utilisation de `git rebase` sur une branche publique ?
- - Les conflits de fusion seront automatiquement résolus.
- - L'historique des commits sera simplifié, rendant la branche plus facile à lire.
+21.   Quelle est une conséquence potentielle de l'utilisation de `git rebase` sur une branche publique ?
  - Les autres collaborateurs ayant déjà récupéré la branche peuvent rencontrer des problèmes de synchronisation avec l'historique modifié.
- - Il n'y a aucun impact, car `rebase` ne modifie rien dans Git.
 
 5.   Les branches de suivi (*tracking branch*) sont:
 
