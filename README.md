@@ -127,11 +127,8 @@ Réponse :
 16.   Lorsque vous résolvez un conflit, quelle est la dernière commande git que vous tapez ? 
  - commit
 
-4.   Quelle est la commande git qui permet de propager ses modifications sur un dépôt distant ? 
+17.   Quelle est la commande git qui permet de propager ses modifications sur un dépôt distant ? 
 - push
-- pull
-- fetch
-- clone
 
 1.   Comment s'appelle le mécanisme qui permet d'accepter ou de refuser une contribution sur un dépôt GitHub ? 
  - Commit Request
